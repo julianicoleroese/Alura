@@ -2,17 +2,23 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Cafeteria</title>
-    </head>
+          <title>Cafeteria</title>
+             <style>
+                  p { 
+                    text-align: center 
+                  }
+             </style>
+     </head>
+
     <body>
-        <h1 style="text-align: center" <strong>Sobre a Cafeteria</strong></h1>
+        <h1 style="" <strong>Sobre a Cafeteria</strong></h1>
 
         <p style="text-align: center"> <em>Localizada em  Marechal Candido Rondon</em> a <strong>Cafeteria</strong> traz para o mercado o que há de melhor para seu café da manhã. 
-        Fundada em 2022, a Cafeteria é <em>inovadora</em> e traz o melhor para você</p>
+        Fundada em 2022, a Cafeteria é <em>inovadora</em> e traz o que a de bom para você.</p>
 
         <p style="font-size:20px; text-align: center"> <em>Nossa missão é: <strong>"Proporcionar o melhor lanche para você"</strong>.</em></p>
 
-        <p style="text-align: center;">Oferecemos profissionais experientes e antenados para o melhor atendimento e lanche . 
+        <p style="text-align: center;">Oferecemos profissionais experientes e antenados para o melhor atendimento e pedidos . 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
     </body>
 </html>
