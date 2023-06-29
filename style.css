@@ -1,6 +1,4 @@
-body {
-    
-}
+
 
 #banner{ width: 100%; }
 
@@ -32,5 +30,41 @@ em strong {
 .beneficios {
 	background: #8B5742
 
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	background: #8B4513;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #A0522D;
+	text-decoration: underline;
+}
+
+header {
+	background: #8B4513;
+	padding: 10px 0;
 }
 
